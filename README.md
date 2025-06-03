@@ -25,7 +25,7 @@
     <p class="Nombre 1" style="color: red;">ximena lopez </p>
     <p class="Nombre 2 " style="color: blue;">monserrat campuzano palacios</p>
     <p class="Nombre 3" style="color: green;">luis manuel benitez ake</p>
-    <p class="Nombre 4" style="color: purple;">ivanv</p>
+    <p class="Nombre 4" style="color: purple;">ivan arellano</p>
 
     <p class="fecha">29 de abril de 2025</p>
 </body>
